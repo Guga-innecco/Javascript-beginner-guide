@@ -1,1 +1,1 @@
-# Javascript-beginner-guide
+# Javascript: The Beginners Guide!
